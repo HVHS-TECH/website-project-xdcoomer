@@ -1,0 +1,57 @@
+
+ body {
+background-color: grey;
+margin:0;
+
+}
+ h1{
+  background-color: pink;
+ }
+.header {
+  background-color: rgb(216, 25, 237);
+  color: greenyellow;
+  text-align: center;
+  display: flex;
+}                  
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 2%;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  height: 20px;
+}
+
+nav{
+  background-color:red;
+  float :left;
+  width: 50px;
+  height: 530px;
+  text-align:center;
+}
+
+hr {
+  padding:0px;
+  margin:0px;
+  
+}
+
+.dropdown {
+  position:relative;
+
+}
+
+.dropdown-menu
+{
+position: relative; 
+left:0;
+top: calc (100% + .25rm);
+}
+
+
+
+
+
