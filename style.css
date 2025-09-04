@@ -1,9 +1,11 @@
-
- body {
-background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRea2pFxq6iZOUUS8pdzL3Zx7mjcgvlaLPqlA&s);
-margin:0;
-
+body {
+ background-image: url(background-real.png);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
+
+
+
  h1{
   background-color: black;
   margin:0;
