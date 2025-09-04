@@ -1,6 +1,6 @@
 
  body {
-background-image:url();
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRea2pFxq6iZOUUS8pdzL3Zx7mjcgvlaLPqlA&s);
 margin:0;
 
 }
@@ -29,6 +29,7 @@ margin:0;
 
 .footer-writing {
  color:white;
+ 
 }
 
 nav {
@@ -51,4 +52,5 @@ vertical-align:text-bottom;
 
 a:hover {
   color:black;
+  background-color:grey;
 }
