@@ -1,0 +1,53 @@
+
+
+
+
+ h1{
+  background-color: black;
+  margin:0;
+ }
+.header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding:10px;
+}                  
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding:10px;
+}
+
+.footer-writing {
+ color:white;
+ 
+}
+
+nav {
+  background-color:grey;
+  float:left;
+  width:50px;
+  height:auto;
+  color:white;
+}
+
+
+body {
+margin:0px;
+}
+
+section {
+margin:0px;
+vertical-align:text-bottom;
+}
+
+a:hover {
+  color:black;
+  background-color:grey;
+}
