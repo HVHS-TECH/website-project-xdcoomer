@@ -2,6 +2,7 @@ body {
  background-image: url(background-aftafeedback.png);
  background-repeat: no-repeat;
  background-size: cover;
+ background-color: black;
 }
 
 
@@ -55,3 +56,14 @@ a:hover {
   color:black;
   background-color:grey;
 }
+
+@media screen and (max-width: 768px) {
+        body {
+            background-color: lightcoral;
+            background-image: url('background-mobile-test.webp');
+            background-size:cover;
+            background-repeat:no-repeat;
+        }
+    } 
+
+    
